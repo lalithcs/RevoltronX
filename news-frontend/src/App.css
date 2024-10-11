@@ -1,0 +1,33 @@
+/* App.css */
+.App {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+.error {
+  color: red;
+}
+
+.headline {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+
+.headline h2 {
+  font-size: 1.2em;
+  margin: 0;
+}
+
+.headline p {
+  font-size: 0.9em;
+  margin: 5px 0;
+}
